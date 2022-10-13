@@ -1,6 +1,6 @@
 Versão em  [português (BR)](https://github.com/alyssonvidal/Rossmann-Sales-Forecast/blob/main/referenses/README_PT.md)
 
-<center><img src="/images/ecommerce2.jpg" alt="logo_rossmann" width="800"/></center>
+<center><img src="/images/ecommerce2.jpg" alt="logo_rossmann" width="800" height="400"/></center>
 
 ## Problem Statement
 A recurring problem in ecommerce is classifying customers according to their value to the company so that the company can plan its action accordingly. One of the metrics used to determine this value in the business world is RFM (Recence, Frequency, Monetization).
@@ -9,6 +9,7 @@ A recurring problem in ecommerce is classifying customers according to their val
 **Main:**
 * Create clusters according to the customer's RFM without using any machine learning models.
 * Create clusters according to the customer's RFM using some machine learning models then compare them with the previous result.
+* Indicate the company's best clients for a loyalty plan
 
 
 ## Development Stages
