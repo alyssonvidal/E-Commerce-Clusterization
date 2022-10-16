@@ -1,6 +1,8 @@
 # Pasta de rascunho
 rascunho/
 notebooks/
+references/
+
 
 # Environments
 .env
