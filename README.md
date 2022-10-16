@@ -1,6 +1,6 @@
-Versão em  [português (BR)](https://github.com/alyssonvidal/Rossmann-Sales-Forecast/blob/main/referenses/README_PT.md)
+Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/referenses/README_PT.md)
 
-<center><img src="/images/ecommerce2.jpg" alt="logo_rossmann" width="800" height="400"/></center>
+<center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
 ## Problem Statement
 A recurring problem in e-commerce is classifying customers according to their value to the company. One of the practices used in the business world to determine this is the RFM (Recence, Frequency, Monetization) table.
@@ -15,17 +15,21 @@ The case study addressed is an E-commerce that has approximately 5 thousand cust
 
 
 ## Development Stages
-[**Data Preprocessing**](https://github.com/alyssonvidal/E-Commerce-Clusterization/notebooks/part01_preprocessing.pynb)<br>
+[**Data Preprocessing**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part01_preprocessing.ipynb)<br>
 Dealing with missing, duplicated and bad values, fixing data types, feature engineering, data inputation...
 
-[**Exploratory Data Analysis**](https://github.com/alyssonvidal/E-Commerce-Clusterization/notebooks/part02_eda.pynb)<br>
+[**Exploratory Data Analysis**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part02_eda.ipynb)<br>
 Descriptive statistics.
 
-**Data Preparation**<br>
+[**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
 Normalization, Standardization, Encoding, Dimensionality Reduction, Outlines.
 
-**Machine Learning Model**<br>
-Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan
+[**Machine Learning Model**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
+**Models:** Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan.<br>
+**Metrics:** WCSS, Silhouette Score, AIC, BIC<br>
+**Support:** UMAP, t-SNE, Embedding Space<br>
+
+
 
 ## Reports
 Project Presentation<br>
@@ -35,10 +39,12 @@ Model Performace<br>
 ## Tools
 Languages: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
-Libraries: Pandas, Matplotlib, Seaborn, Sklearn, statsmodel<br>
+Libraries: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
 Frameworks: Flask<br>
 Deploy: Heroku<br>
 Methodology: CRISP-DM<br>
+
+## Referenses
 
 *** 
 
