@@ -19,10 +19,10 @@ Dealing with missing, duplicated and bad values, fixing data types, feature engi
 [**Exploratory Data Analysis**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part02_eda.ipynb)<br>
 Descriptive statistics.
 
-[**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
+[**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_data_preparation.ipynb)<br>
 Normalization, Standardization, Dimensionality Reduction, Outlines.
 
-[**Machine Learning Model**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
+[**Machine Learning Model**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part04_rfm_with_ml.ipynb)<br>
 * **Models:** Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan.<br>
 * **Metrics:** WCSS, Silhouette Score, AIC, BIC<br>
 * **Support:** UMAP, t-SNE, Embedding Space<br>
@@ -31,7 +31,7 @@ Normalization, Standardization, Dimensionality Reduction, Outlines.
 
 ## Reports
 Business Report<br>
-[Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.md)<br>
+[Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.MD)<br>
 [Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/comparison.md)<br>
 
 ## Tools

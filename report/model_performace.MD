@@ -8,13 +8,14 @@
 **Number of Features Used:** 3<br>
 **Features:** GrossRevenueTotal, RecencyDays, Frequency<br>
 **Framework:** scipy<br>
-**Parameters**
-Method: ward
-Metric(distance): Euclidean
-Criterion: Maxclust  
+**Parameters**<br>
+- Method: ward<br>
+- Metric(distance): Euclidean<br>
+- Criterion: Maxclust  <br>
 
-
-**Estimator:**  scipy.cluster.hierarchy.linkage(X, 'ward', metric='euclidean') , scipy.cluster.hierarchy.fcluster(model, k, criterion='maxclust')<br>                     
+**Estimator:**  
+scipy.cluster.hierarchy.linkage(X, 'ward', metric='euclidean') , <br>
+scipy.cluster.hierarchy.fcluster(model, k, criterion='maxclust') <br>                     
 
 **Evaluating Metrics:** Dendogram, Silhouette Score<br>
 **Dimensionality Reduction:** UMAP, 2<br>
@@ -23,7 +24,14 @@ Criterion: Maxclust
 **Number of Clusters:** 10<br>
 <sub>The choice of this number is due much more to adapting to the already known RFM table than the number of clusters that the algorithm performed better.</sub><br>
 
+<center><img src="../images/hc_dendogram.png" alt="rfm_ml" width="480" height="260"/></center><br>
+
+[**Data Preprocessing**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/images/HierarchicalCluster.html)<br>
+
 ***
+
+
+<center><img src="../images/rfm_ml_table.png" alt="rfm_ml" width="480" height="260"/></center><br>
 
 ### Chosen Model: Analysis
 
@@ -37,3 +45,5 @@ The points considered critical were "Champions", "New Customers", "Cannot Lose T
  Most of a company's action plans are in relation to new customers, so it is essential that the machine learning model identifies this group, the hierarchical cluster did this very well considering users who performed approximately one to two purchases within a week from a new customer.
 
  "Can not Lose Them" are those who have already purchased a lot from the company but have not purchased anything for sometime. This is also another group that has a constant action plan from the business team because they want to know how to identify the reasons that lead this customer to leave and bring him back. "The hierarchical cluster possibly performed worse here because it has a lot of similarity with the "At Risk" and "Loyal Customers" those cluster are very close to each other.
+ 
+ <center><img src="../images/rfm_ml.png" alt="rfm_ml" width="800" height="600"/></center>
