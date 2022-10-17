@@ -26,9 +26,9 @@ scipy.cluster.hierarchy.fcluster(model, k, criterion='maxclust') <br>
 
 <center><img src="../images/hc_dendogram.png" alt="rfm_ml" width="480" height="260"/></center><br>
 
-[Interactive Graph](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/images/HierarchicalCluster.html)<br>
 
 ***
+<center><img src="../images/rfm_ml_table.png" alt="rfm_ml" width="480" height="260"/></center><br>
 
 
 <center><img src="../images/rfm_ml_table.png" alt="rfm_ml" width="480" height="260"/></center><br>
@@ -46,4 +46,8 @@ The points considered critical were "Champions", "New Customers", "Cannot Lose T
 
  "Can not Lose Them" are those who have already purchased a lot from the company but have not purchased anything for sometime. This is also another group that has a constant action plan from the business team because they want to know how to identify the reasons that lead this customer to leave and bring him back. "The hierarchical cluster possibly performed worse here because it has a lot of similarity with the "At Risk" and "Loyal Customers" those cluster are very close to each other.
  
+<<<<<<< HEAD
  <center><img src="../images/rfm_ml.png" alt="rfm_ml" width="800" height="600"/></center>
+=======
+ <center><img src="../images/rfm_statistic.png" alt="rfm_ml" width="800" height="600"/></center>
+>>>>>>> 62d13309aa28cff71b1809a444e190e9a14a5be7
