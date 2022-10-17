@@ -1,4 +1,4 @@
-[English version](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/README_PT.md)
+[English version](https://github.com/alyssonvidal/E-Commerce-Clusterization)
 
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
