@@ -30,9 +30,9 @@ Normalization, Standardization, Dimensionality Reduction, Outlines.
 
 
 ## Reports
-Project Presentation<br>
-Business Avaliation<br>
+Business Report<br>
 [Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.md)<br>
+[Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/comparison.md)<br>
 
 ## Tools
 Languages: Python<br>
