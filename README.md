@@ -19,7 +19,7 @@ Dealing with missing, duplicated and bad values, fixing data types, feature engi
 [**Exploratory Data Analysis**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part02_eda.ipynb)<br>
 Descriptive statistics.
 
-[**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
+[**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_data_preparation.ipynb)<br>
 Normalization, Standardization, Dimensionality Reduction, Outlines.
 
 [**Machine Learning Model**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
