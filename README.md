@@ -42,7 +42,7 @@ Frameworks: Flask<br>
 Deploy: Heroku<br>
 Methodology: CRISP-DM<br>
 
-## Referenses
+## References
 
 *** 
 
