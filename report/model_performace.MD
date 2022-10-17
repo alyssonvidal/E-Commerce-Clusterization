@@ -26,7 +26,7 @@ scipy.cluster.hierarchy.fcluster(model, k, criterion='maxclust') <br>
 
 <center><img src="../images/hc_dendogram.png" alt="rfm_ml" width="480" height="260"/></center><br>
 
-[**Data Preprocessing**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/images/HierarchicalCluster.html)<br>
+[Interactive Graph](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/images/HierarchicalCluster.html)<br>
 
 ***
 
