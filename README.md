@@ -3,9 +3,7 @@ Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Cluster
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
 ## Problem Statement
-A recurring problem in e-commerce is classifying customers according to their value to the company. One of the practices used in the business world to determine this is the RFM (Recence, Frequency, Monetization) table.
-
-The case study addressed is an E-commerce that has approximately 5 thousand customers in its database, it wants to identify the best ones to forward them to the loyalty program.
+A recurring problem in e-commerce is classifying customers according to their value to the company. One of the practices used in the business world to determine this is the RFM (Recence, Frequency, Monetization) table. The case study addressed is an E-commerce that has approximately 5 thousand customers in its database, it wants to identify the best ones to forward them to the loyalty program.
 
 ## Objective
 **Main:**
@@ -22,19 +20,19 @@ Dealing with missing, duplicated and bad values, fixing data types, feature engi
 Descriptive statistics.
 
 [**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
-Normalization, Standardization, Encoding, Dimensionality Reduction, Outlines.
+Normalization, Standardization, Dimensionality Reduction, Outlines.
 
 [**Machine Learning Model**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_rfm_with_ml.ipynb)<br>
-**Models:** Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan.<br>
-**Metrics:** WCSS, Silhouette Score, AIC, BIC<br>
-**Support:** UMAP, t-SNE, Embedding Space<br>
+* **Models:** Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan.<br>
+* **Metrics:** WCSS, Silhouette Score, AIC, BIC<br>
+* **Support:** UMAP, t-SNE, Embedding Space<br>
 
 
 
 ## Reports
 Project Presentation<br>
 Business Avaliation<br>
-Model Performace<br>
+[Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.md)<br>
 
 ## Tools
 Languages: Python<br>
