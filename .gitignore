@@ -3,14 +3,9 @@ rascunho/
 
 
 # Environments
-.env
 .venv
-env/
-venv/
 .venv/
-ENV/
-env.bak/
-venv.bak/
+
 
 # Unit test / coverage reports
 htmlcov/
@@ -26,7 +21,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
 
 # Jupyter Notebook
 .ipynb_checkpoints
