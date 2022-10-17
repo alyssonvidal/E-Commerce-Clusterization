@@ -1,6 +1,5 @@
 # Model Performace
 
-
 ## Chosen Model: Hierachical Cluster
 
 **Date:** 18/10/2022
@@ -17,6 +16,8 @@
 
 **Number of Clusters:** 10<br>
 <sub>The choice of this number is due much more to adapting to the already known RFM table than the number of clusters that the algorithm performed better.</sub><br>
+
+***
 
 ### Chosen Model: Analysis
 
