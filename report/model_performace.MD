@@ -3,7 +3,7 @@
 
 ## Chosen Model: Hierachical Cluster
 
-**date:** 18/10/2022
+**Date:** 18/10/2022
 
 **Framework:** scipy<br>
 **Number of Features:** 3<br>
@@ -16,9 +16,7 @@
 **Embedding:** No<br>
 
 **Number of Clusters:** 10<br>
-<sub>The choice of this number is due much more to adapting to the already known RFM table than the number of clusters that the algorithm performed better.</sub>
-
-<br>
+<sub>The choice of this number is due much more to adapting to the already known RFM table than the number of clusters that the algorithm performed better.</sub><br>
 
 ### Chosen Model: Analysis
 
@@ -33,4 +31,9 @@ The points considered critical were "Champions", "New Customers", "Cannot Lose T
 
  "Can not Lose Them" are those who have already purchased a lot from the company but have not purchased anything for sometime. This is also another group that has a constant action plan from the business team because they want to know how to identify the reasons that lead this customer to leave and bring him back. "The hierarchical cluster possibly performed worse here because it has a lot of similarity with the "At Risk" and "Loyal Customers" those cluster are very close to each other.
 
- <center><img src="/images/rfm_ml.jpg" alt="rfm_ml" width="800" height="400"/></center>
+
+ ### Comparing the Machine Learning Model with Statistic RFM model segment
+
+  <center><img src="../images/rfm_ml.png" alt="rfm_ml" width="800" height="600"/></center>
+
+ <center><img src="../images/rfm_statistic.png" alt="rfm_ml" width="800" height="600"/></center>
