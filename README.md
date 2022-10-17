@@ -8,8 +8,9 @@ A recurring problem in e-commerce is classifying customers according to their va
 ## Objective
 **Main:**
 * Create clusters according to the customer's RFM without using any machine learning models, using only statistical theory.
-* Create clusters according to the customer's RFM using some machine learning models then compare them with the previous result.
-* Indicate the company's best clients for a loyalty plan.
+* Create clusters according to the customer's RFM using some machine learning models.
+* Compare the machine learning model with the statistical RFM.
+* Indicate the best customers for the loyalty plan.
 
 
 ## Development Stages
