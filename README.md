@@ -1,4 +1,4 @@
-Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/referenses/README_PT.md)
+Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/references/README_PT.md)
 
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
