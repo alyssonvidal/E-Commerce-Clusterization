@@ -10,9 +10,8 @@ A recurring problem in e-commerce is classifying customers according to their va
 * Create clusters according to the customer's RFM using some machine learning models.
 * Indicate the best customers for the loyalty plan.
 **Secundary:**
-* Create clusters according to the customer's RFM without using any machine learning models, using only statistical theory.
-* Compare the machine learning model with the statistical model.
-
+* Create clusters according to the customer's RFM without using any machine learning models, using only statistical theory.*
+* Compare the machine learning model with the statistical RFM.
 
 
 ## Development Stages
@@ -45,8 +44,5 @@ Frameworks: Flask<br>
 Deploy: Heroku<br>
 Methodology: CRISP-DM<br>
 
-## References
-
 *** 
 
-## Brefing 
