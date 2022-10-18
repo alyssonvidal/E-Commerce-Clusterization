@@ -1,4 +1,4 @@
-Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/referenses/README_PT.md)
+Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/references/README_PT.md)
 
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
@@ -7,9 +7,12 @@ A recurring problem in e-commerce is classifying customers according to their va
 
 ## Objective
 **Main:**
+* Create clusters according to the customer's RFM using some machine learning models.
+* Indicate the best customers for the loyalty plan.
+**Secundary:**
 * Create clusters according to the customer's RFM without using any machine learning models, using only statistical theory.
-* Create clusters according to the customer's RFM using some machine learning models then compare them with the previous result.
-* Indicate the company's best clients for a loyalty plan.
+* Compare the machine learning model with the statistical model.
+
 
 
 ## Development Stages

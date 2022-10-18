@@ -1,4 +1,4 @@
-[English version](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/README_PT.md)
+[English version](https://github.com/alyssonvidal/E-Commerce-Clusterization)
 
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
@@ -7,10 +7,12 @@ Um problema recorrente no e-commerce é classificar os clientes de acordo com se
 
 ## Objetivo
 **Principal:**
-* Criar clusters de acordo com o RFM do cliente sem usar nenhum modelo de aprendizado de máquina, usando apenas teoria estatística.
 * Criar clusters de acordo com o RFM do cliente usando alguns modelos de aprendizado de máquina.
-* Comparar o modelo estatistico de quartis com o modelo de machine learning.
 * Indicar os melhores clientes para um plano de fidelidade.
+**Secundário:**
+* Criar clusters de acordo com o RFM do cliente sem usar nenhum modelo de aprendizado de máquina, usando apenas teoria estatística.
+* Comparar o modelo estatistico com o modelo de machine learning.
+
 
 
 ## Development Stages
@@ -42,8 +44,6 @@ Bibliotecas: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<b
 Frameworks: Flask<br>
 Produção: Heroku<br>
 Metodologia: CRISP-DM<br>
-
-## Referencias
 
 *** 
 
