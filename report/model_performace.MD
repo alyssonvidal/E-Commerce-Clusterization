@@ -10,7 +10,7 @@
 **Number of Features Used:** 3<br>
 **Features:** GrossRevenueTotal, RecencyDays, Frequency<br>
 **Framework:** scipy<br>
-**Parameters**<br>
+**Parameters>**<br>
 - Method: ward<br>
 - Metric(distance): Euclidean<br>
 - Criterion: Maxclust  <br>
@@ -28,7 +28,7 @@ scipy.cluster.hierarchy.fcluster(model, k, criterion='maxclust') <br>
 
 
 
-<center><img src="../images/rfm_ml_table.png" alt="rfm_ml" width="380" height="240"/></center><br>
+<center><img src="../images/rfm_ml_table.png" alt="rfm_ml" width="420" height="280"/></center><br>
 
 ***
 

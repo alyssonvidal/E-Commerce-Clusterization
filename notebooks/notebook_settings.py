@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from IPython.display import HTML
 
-def menu_settings():
+#def menu_settings():        
     HTML("""
             <style>
 
@@ -26,6 +26,7 @@ def menu_settings():
             }
 
             </style>
-    """)
 
-#DarkSlateGray;
+    from __future__ import print_function
+    print('hi, stderr', file=sys.stderr)        
+    """)
