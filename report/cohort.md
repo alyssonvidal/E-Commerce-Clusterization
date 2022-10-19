@@ -1,33 +1,35 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+# Business Report
 
-# Cohort Analysis
-
-
-
-<sub>**Report Date:** 18/10/2022</sub>
-
-**Time length:** 2016/11/29 to 2017/12/07<br>
-**Datasourcer:** 406775 rows, 9 columns<br>
-**Total Unique Customers:** 4363<br>
+## Overall Analisys
+<sub>**Report Date:** 18/10/2022</sub><br><br>
 
 ## Content
 
+* Resume
 * Timestamp of Sales
 * Cohort
 * RFM
-* Rank Customers
-* Rank Products
+* Rank Customers, Products
+
+### Resume
+
+#### Database:
+
+* **Time length:** 2016/11/29 to 2017/12/07<br>
+* **Datasource:** [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)<br>
+* **Registers:** 406775 <br>
+* **Uninformed Customers:** 135080
+
+#### Sales:
+
+* **Total Invoices**: 21705<br>
+* **Non Cancelled**: 18376<br>
+* **Cancelled**: 3329<br>
+
+**Unique Customers:** 4363<br>
+
+
+
 
 
 
