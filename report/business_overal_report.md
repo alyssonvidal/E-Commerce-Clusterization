@@ -1,20 +1,17 @@
-# Fidelity program
+# Cohort Analysis
 
-**Date:** 18/10/2022
-<center><img src="../images/histogram_avarage_sales.png" alt="rfm_ml"/></center><br>
+<sub>**Report Date:** 18/10/2022</sub>
 
+**Time length:** 2016/11/29 to 2017/12/07<br>
+**Total Customers:** 4363<br>
+**Total Unique Customers:** 4363<br>
 
+<hr>
 
-**Avarage Sales per Customer**:<br>
-**Best Month avarage Selling:**<br>
-**Best Week avarage Selling:**<br>
+<center><img src="../images/cohort_percentage.png" alt="rfm_ml"/></center><br>
+<center><img src="../images/cohort_absolute.png" alt="rfm_ml"/></center><br>
+<center><img src="../images/cohort_allcustomers.png" alt="rfm_ml"/></center><br>
 
-<center><img src="../images/rfm_ml.png" alt="rfm_ml"/></center><br>
-
-### Overall Client Rank
-
-<center><img src="../images/sales_rank.png" alt="rfm_ml" width="380" height="240"/></center><br>
-***
 
 
 
