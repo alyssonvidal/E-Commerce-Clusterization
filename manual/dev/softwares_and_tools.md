@@ -5,14 +5,17 @@
 3. [VS Code](https://code.visualstudio.com)
 
 Create a virtual environment to specify Python on Visual Studio
+
     conda create -p venv python==3.7 -y
 
 Criando ambiente virtual para o python no Power Shell:
+
     py -3 -m venv .venv
     Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
     .venv\scripts\activate
 
-Criando o arquivo requirements com as principais bibliotecas necessárias:
+Criando o arquivo requirements.txt com as principais bibliotecas necessárias em todo projeto:
+
     sklearn
     pandas
     matplotlib
@@ -23,6 +26,7 @@ Criando o arquivo requirements com as principais bibliotecas necessárias:
     papermill
 
 ou
+
     pip3 freeze > requirements.txt
 
     
@@ -30,6 +34,7 @@ Instalando as bibliotecas do python necessárias para o projeto no ambiente virt
     pip install -r requirements.txt
 
 Enviando os arquivos para o github:
+
     git config --global user.name
     git config --global user.email
     git add . 
@@ -37,5 +42,6 @@ Enviando os arquivos para o github:
     git commit -m "Readme.md, Requirement.txt, dataset..."
     git push origin main
 
-Run app.py (app_name):
-    python app.py
+Run app (app_name):
+
+    python app_name.py
