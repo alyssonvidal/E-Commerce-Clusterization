@@ -1,10 +1,10 @@
- # Comparing the Machine Learning Model with Statistical Quartile RFM
+# Comparing the Machine Learning Model with Statistical Quartile RFM
 
 ## Background
 Foram analisados 4316 clientes com os mais diversos perfis de consumo, e o objetivo é classificar os clientes de acordo esses perfis. Uma tabela já conhecida é a tabela RFM de segmentação onde nela os clientes são classificados como: 
 
 
-Modelo Estatistico
+### Modelo Estatistico<br>
 **Vantagens** 
 
 - Simples de entender
@@ -23,8 +23,7 @@ Modelo Estatistico
 <center><img src="../images/rfm_statistic.png" alt="rfm_ml" width="800" height="600"/></center>
 
 
-
-Modelo de Machine Learning
+### Modelo de Machine Learning<br>
 **Vantagens** 
 
 - Consegue ser especifico, por utilizar multiplas variaveis, encontrando grupos/padrões muitas vezes pouco visíveis.

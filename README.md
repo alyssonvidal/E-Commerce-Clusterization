@@ -34,15 +34,11 @@ Normalization, Standardization, Dimensionality Reduction, Outlines.
 
 
 ## Reports
-<<<<<<< HEAD
+
 [Business Report](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/business_overall_report.md)<br>
 [Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/model_performace.MD)<br>
 [Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/comparison.md)<br>
-=======
-[Business Report](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/business_overall_report.md)<br>
-[Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.MD)<br>
-[Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/comparison.md)<br>
->>>>>>> 1ff26c83ce09552e795a0f89a3e04116066cfbd0
+
 
 ## Tools
 Languages: Python<br>

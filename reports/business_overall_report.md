@@ -25,13 +25,7 @@
 * **Total Invoices**: 21705<br>
 * **Non Cancelled**: 18376<br>
 * **Cancelled**: 3329<br>
-
 **Unique Customers:** 4363<br>
-
-
-
-
-
 
 <center>
   
@@ -49,12 +43,9 @@ Rank | CustomerID | Sales($)
 10| 17450	| 4229.36	  
 </center>
 
+<center><img src="../images/cohort_percentage.png" alt="rfm_ml"/></center><br>
 
-td:nth-child(even), th:nth-child(even) {
-  background-color: #D6EEEE;
-}
 
 <center><img src="../images/cohort_percentage.png" alt="rfm_ml"/></center><br>
 <center><img src="../images/cohort_absolute.png" alt="rfm_ml"/></center><br>
 <center><img src="../images/cohort_allcustomers.png" alt="rfm_ml"/></center><br>
-Valor | Valor | Valor
