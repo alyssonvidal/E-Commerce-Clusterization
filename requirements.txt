@@ -1,0 +1,8 @@
+sklearn
+pandas
+matplotlib
+numpy
+scipy
+plotly
+schedule
+papermill

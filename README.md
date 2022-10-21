@@ -9,7 +9,9 @@ A recurring problem in e-commerce is classifying customers according to their va
 **Main:**
 * Create clusters according to the customer's RFM using some machine learning models.
 * Indicate the best customers for the loyalty plan.<br>
+
 **Secundary:**
+
 * Create clusters according to the customer's RFM without using any machine learning models, using only statistical theory.*
 * Compare the machine learning model with the statistical RFM.
 
@@ -19,7 +21,7 @@ A recurring problem in e-commerce is classifying customers according to their va
 Dealing with missing, duplicated and bad values, fixing data types, feature engineering, data inputation...
 
 [**Exploratory Data Analysis**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part02_eda.ipynb)<br>
-Descriptive statistics.
+Descriptive statistics, Cohort, Sales over time, Cancelations, Country of Customers, Rank of Customers, WorldCloud of Products...
 
 [**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_data_preparation.ipynb)<br>
 Normalization, Standardization, Dimensionality Reduction, Outlines.
@@ -32,17 +34,16 @@ Normalization, Standardization, Dimensionality Reduction, Outlines.
 
 
 ## Reports
-Business Report<br>
-[Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.MD)<br>
-[Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/comparison.md)<br>
+[Business Report](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/business_overall_report.md)<br>
+[Model Performace](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/model_performace.MD)<br>
+[Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/comparison.md)<br>
 
 ## Tools
 Languages: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
 Libraries: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
 Frameworks: Flask<br>
-Deploy: Heroku<br>
+Deploy: SweetViz<br>
 Methodology: CRISP-DM<br>
 
 *** 
-

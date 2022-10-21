@@ -33,9 +33,9 @@ Normalização, Padronização, Redução de Dimensionalidade, Outliers.
 
 
 ## Relatórios
-[Relatório de Negócios](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.MD)<br>
-[Performace do Modelo de Machine Learning](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/model_performace.MD)<br>
-[Comparação do Modelo de Machine Learning com o Modelo RFM Estatistico de Quartis](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/report/comparison.md)<br>
+[Relatório de Negócios](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/model_performace.MD)<br>
+[Performace do Modelo de Machine Learning](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/model_performace.MD)<br>
+[Comparação do Modelo de Machine Learning com o Modelo RFM Estatistico de Quartis](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/comparison.md)<br>
 
 ## Ferramentas
 Linguagens: Python<br>
