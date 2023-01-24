@@ -44,8 +44,5 @@ Rank | CustomerID | Sales($)
 </center>
 
 <center><img src="../images/cohort_percentage.png" alt="rfm_ml"/></center><br>
-
-
-<center><img src="../images/cohort_percentage.png" alt="rfm_ml"/></center><br>
 <center><img src="../images/cohort_absolute.png" alt="rfm_ml"/></center><br>
 <center><img src="../images/cohort_allcustomers.png" alt="rfm_ml"/></center><br>

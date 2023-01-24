@@ -10,9 +10,9 @@ hostname = socket.gethostname()
 timenow = datetime.datetime.now().strftime('%Y/%m/%d/%H:%M:%S')
 
 record = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
-path_model_report_initial ='/Users/Alysson/Documents/Projects/E-Commerce-Clusterization/reports/output/model-test.ipynb'
-path_model_report_last = f'/Users/Alysson/Documents/Projects/E-Commerce-Clusterization/reports/output/{record}-model-test.ipynb'
-path_model_deploy='/Users/Alysson/Documents/Projects/E-Commerce-Clusterization/scr/models/model-deploy.ipynb'
+path_model_report_initial ='/Users/Alysson/Documents/Projects/E-Commerce-Clusterization/reports/output/model-deploy-local.ipynb'
+path_model_report_last = f'/Users/Alysson/Documents/Projects/E-Commerce-Clusterization/reports/output/{record}-model-deploy-local.ipynb'
+path_model_deploy='/Users/Alysson/Documents/Projects/E-Commerce-Clusterization/scr/models/model-deploy-local.ipynb'
 
 
 def job():

@@ -1,9 +1,12 @@
 # Pasta de rascunho
 rascunho/
+dev/
+manual/
 
 
 # Environments
 .venv
+.env
 .venv/
 
 
