@@ -3,16 +3,19 @@ Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Cluster
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
 ## Problem Statement
-A recurring problem in e-commerce is classifying customers according to their value to the company. One of the practices used in the business world to determine this is the RFM (Recence, Frequency, Monetization) table. The case study addressed is an E-commerce that has approximately 5 thousand customers in its database, it wants to identify the best ones to forward them to the loyalty program.
+A recurring problem in e-commerce is classifying customers according to their value to the company, a problem also known as customer segmentation. One of the practices used in the business world to determine this is the RFM table (Recence, Frequency, Monetization), to obtain this table there are statistical methods and clustering algorithms that manage to reproduce practically the same results.
+
+The case study addressed is an E-commerce that has approximately 5 thousand customers in its database, it wants to identify the best ones to refer them to the loyalty program.
 
 ## Objective
 **Main:**
 * Create clusters according to the customer's RFM using some machine learning models.
-* Indicate the best customers for the loyalty plan.<br>
+* Indicate the best customers for the loyalty plan called "insiders".
+* Create a dashboard on metabase
+* Deploy Model on AWS.
 
 **Secundary:**
 
-* Create clusters according to the customer's RFM without using any machine learning models, using only statistical theory.*
 * Compare the machine learning model with the statistical RFM.
 
 
@@ -24,12 +27,10 @@ Dealing with missing, duplicated and bad values, fixing data types, feature engi
 Descriptive statistics, Cohort, Sales over time, Cancelations, Country of Customers, Rank of Customers, WorldCloud of Products...
 
 [**Data preparation**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part03_data_preparation.ipynb)<br>
-Normalization, Standardization, Dimensionality Reduction, Outlines.
+Outliers Detection, Normalization, Standardization, Dimensionality Reduction (PCA, UMAP, t-SNE, Tree Embedding). 
 
 [**Machine Learning Model**](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/notebooks/part04_rfm_with_ml.ipynb)<br>
-* **Models:** Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan.<br>
-* **Metrics:** WCSS, Silhouette Score, AIC, BIC<br>
-* **Support:** UMAP, t-SNE, Embedding Space<br>
+Kmeans, Hierachical Clustering, Gaussian Mixture Model, DBScan
 
 
 
@@ -44,8 +45,15 @@ Normalization, Standardization, Dimensionality Reduction, Outlines.
 Languages: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
 Libraries: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
-Frameworks: Flask<br>
-Deploy: SweetViz<br>
+Dashboard: Metabase<br>
+Deploy: AWS (S3,EC2,RDS)<br>
 Methodology: CRISP-DM<br>
 
 *** 
+## Resume
+
+
+<center><img src="/images/schema.png" alt="asasd" width="1190" height="794"/></center>
+
+<center><img src="/images/metabase.png" alt="asdgg" width="1287" height="842"/></center>
+
