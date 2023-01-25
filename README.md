@@ -6,19 +6,19 @@ Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Cluster
 
 ## Problem Statement
 
-To increase the customer retention, the CEO of an E-commerce would like to start a new marketing campaign called "Insiders", this campaign aims to offer to potential loyal customers a special benefits plan. The CEO asked his team of data scientists at his company to identify the key customer segments the company has and which customers are most eligible for this campaign.
+To increase the customers retention, a CEO of an E-commerce would like to start a new marketing campaign called "Insiders", this campaign aims to offer to potential loyal customers a special benefits plan, such as discounts, gifts, prizes, for those who reach a certain goal. This CEO asked his team of data scientists  to identify the key customer segments the company has and which customers are most eligible for this campaign.
 
 The study case refers to an online retail store based in UK, were collected invoices from approximately 5000 customers, for a period of one year (November 2016 to December 2017). Database can be found on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
 
 ## Objective
 **Main:**
-* Through machine learning algorithms, identify the most relevant customer segments that the company has.
+* Through Machine Learning algorithms, identify the most relevant customer segments that the company has.
 * Identify which customers are most eligible to participate in the loyalty program.
 * Publish the results into a dashboard that can be accessed from anywhere.
 
 **Secundary:**
 
-* Using the RFM metric (Recency, Frequency, Monetization), to compare the results of a statistical model and machine learning model.
+* Using the RFM metric (Recency, Frequency, Monetization) and compare the results of a statistical model and machine learning model.
 
 
 ## Development Stages
@@ -39,7 +39,7 @@ Metabase, AWS (RDS, EC2, S3), Crontab, Papermill, Postgres
 
 <center><img src="/images/schema.png" alt="asasd" width="1190" height="794"/></center>
 
-## Reports
+## Results
 
 [Business Report - Loyalty Program](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/business_overall_report.md)<br>
 [Comparison RFM - Machine Learning and Statistical](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/comparison.md)<br>
@@ -52,3 +52,7 @@ Libraries: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
 Dashboard: Metabase<br>
 Deploy: AWS<br>
 Methodology: CRISP-DM<br>
+
+## Resume
+
+<center><img src="/images/cluster.png" alt="cluster"/></center>

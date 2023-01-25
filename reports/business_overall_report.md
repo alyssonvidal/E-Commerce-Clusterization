@@ -21,6 +21,9 @@
 ## Rentention Analysis - Cohort
 <center><img src="../images/cohort_allcustomers.png" alt="asdsd"/></center><br>
 
+## Clusters
+<center><img src="../images/cluster.png" alt="cluster"/></center><br>
+
 ## RFM Table
 <center><img src="../images/rfm_ml.png" alt="rfm_ml" width="800" height="600"/></center>
 
