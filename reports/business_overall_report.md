@@ -1,48 +1,50 @@
-# Business Report
-
-## Overall Analisys
-<sub>**Report Date:** 18/10/2022</sub><br><br>
+# Business Report - Loyalty Program
 
 ## Content
 
 * Resume
-* Timestamp of Sales
-* Cohort
-* RFM
-* Rank Customers, Products
+* Rentention Analysis - Cohort
+* RFM Table
+* Q & A - Loyalty Program
+* Dashboard
 
-### Resume
-
-#### Database:
+## Resume
 
 * **Time length:** 2016/11/29 to 2017/12/07<br>
-* **Datasource:** [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)<br>
-* **Registers:** 406775 <br>
-* **Uninformed Customers:** 135080
-
-#### Sales:
-
 * **Total Invoices**: 21705<br>
-* **Non Cancelled**: 18376<br>
-* **Cancelled**: 3329<br>
-**Unique Customers:** 4363<br>
+* **Non Cancelled Invoices**: 18376<br>
+* **Cancelled Invoices**: 3329<br>
+* **Unique Customers:** 4363<br>
+* **Uninformed Customers:** 135080<br>
 
-<center>
-  
-Rank | CustomerID | Sales($)
-:--------- | :------: | :-------:
-1| 5749	| 14844.77
-2| 15098	| 13305.50
-3| 12357	| 6207.67
-4| 12415	| 5948.31	
-5| 12590	| 4932.13	
-6| 12688	| 4873.81	
-7| 12752	| 4366.78	
-8| 18102 | 4327.62	
-9| 18251	| 4314.72
-10| 17450	| 4229.36	  
-</center>
 
-<center><img src="../images/cohort_percentage.png" alt="rfm_ml"/></center><br>
-<center><img src="../images/cohort_absolute.png" alt="rfm_ml"/></center><br>
+## Rentention Analysis - Cohort
 <center><img src="../images/cohort_allcustomers.png" alt="rfm_ml"/></center><br>
+
+## RFM Table
+<center><img src="../images/rfm_ml.png" alt="rfm_ml" width="800" height="600"/></center>
+
+
+## Q & A - Loyalty Program
+
+**Who are the eligible people to participate in the Champions program?**
+
+- The best customers to participate in the "Insiders" program are those customers who are great, but not yet the best. They are very profitable customers for the company and are often buying several products. The customers selected for this program are from the "Potencial Loyalits" Cluster.
+
+**How many customers will be part of the loyalty group?**
+
+- 488
+
+**What are the main characteristics of these customers?** 
+
+- They are one of the most profitable customers, who have been buying a lot in recent months. Despite being great customers, they are not the company's most profitable nor are they those with the greatest purchase history in the company in the last year.
+
+**What is the percentage of revenue contribution that comes theses costumers?**
+
+- A receita média desses clientes é de $690,13
+
+**What are the conditions for a person to be eligible?**
+
+- Provide a high gross revenue and have been buying a lot in recent months
+
+**What actions can the marketing team take to increase sales?**
