@@ -19,7 +19,7 @@
 
 
 ## Rentention Analysis - Cohort
-<center><img src="../images/cohort_allcustomers.png" alt="rfm_ml"/></center><br>
+<center><img src="../images/cohort_allcustomers.png" alt="asdsd"/></center><br>
 
 ## RFM Table
 <center><img src="../images/rfm_ml.png" alt="rfm_ml" width="800" height="600"/></center>
@@ -48,3 +48,6 @@
 - Provide a high gross revenue and have been buying a lot in recent months
 
 **What actions can the marketing team take to increase sales?**
+
+## Dashboard Metabase
+<center><img src="../images/metabase.png" alt="rfm_ml"/></center>

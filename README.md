@@ -1,25 +1,24 @@
 Versão em  [português (BR)](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/references/README_PT.md)
 
-# Customers Segmentation - Loyalty Program for E-Commerce
+# Customers Segmentation - Loyalty Program
 
 <center><img src="/images/ecommerce2.jpg" alt="logo_ecommerce" width="800" height="400"/></center>
 
 ## Problem Statement
-A recurring problem in e-commerce is classifying customers according to their value to the company, a problem also known as customer segmentation. 
 
-To increase your customer retention, the CEO would like to start a new marketing campaign called "Insiders", this campaign aims to offer potential loyal customers a special benefits plan. For the CEO, it helped his company's team of data scientists to identify the main customer segments the company has, and which customers are most eligible for this campaign.
+To increase the customer retention, the CEO of an E-commerce would like to start a new marketing campaign called "Insiders", this campaign aims to offer to potential loyal customers a special benefits plan. The CEO asked his team of data scientists at his company to identify the key customer segments the company has and which customers are most eligible for this campaign.
 
-The study case refers to an online retail store based in UK, were collected invoices from approximately 5000 customers, for a period of one year (November 2016 to December 2017).
+The study case refers to an online retail store based in UK, were collected invoices from approximately 5000 customers, for a period of one year (November 2016 to December 2017). Database can be found on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
 
 ## Objective
 **Main:**
 * Through machine learning algorithms, identify the most relevant customer segments that the company has.
-* Identify which customers are most eligible to participate in the "Insiders" program.
+* Identify which customers are most eligible to participate in the loyalty program.
 * Publish the results into a dashboard that can be accessed from anywhere.
 
 **Secundary:**
 
-* Using the RFM metric (Recency, Frequency, Monetization), compare the results of a statistical model with a machine learning model.
+* Using the RFM metric (Recency, Frequency, Monetization), to compare the results of a statistical model and machine learning model.
 
 
 ## Development Stages
@@ -42,8 +41,8 @@ Metabase, AWS (RDS, EC2, S3), Crontab, Papermill, Postgres
 
 ## Reports
 
-[Business Report - Insiders](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/business_overall_report.md)<br>
-[Comparison Machine Learning RFM with Statistical Quartile RFM](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/comparison.md)<br>
+[Business Report - Loyalty Program](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/business_overall_report.md)<br>
+[Comparison RFM - Machine Learning and Statistical](https://github.com/alyssonvidal/E-Commerce-Clusterization/blob/main/reports/comparison.md)<br>
 
 
 ## Tools
