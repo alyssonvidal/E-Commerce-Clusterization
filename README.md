@@ -55,4 +55,4 @@ Methodology: CRISP-DM<br>
 
 ## Resume
 
-<center><img src="/images/cluster.png" alt="cluster"/></center>
+<center><img src="/images/clusters.png" alt="clusters"/></center>
